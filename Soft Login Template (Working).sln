@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Soft Login Template (Working)", "Soft Login Template (Working)\Soft Login Template (Working).vbproj", "{577F2E99-10D9-4C7A-84BB-E21C4B366C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577F2E99-10D9-4C7A-84BB-E21C4B366C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577F2E99-10D9-4C7A-84BB-E21C4B366C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577F2E99-10D9-4C7A-84BB-E21C4B366C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577F2E99-10D9-4C7A-84BB-E21C4B366C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06551721-9AE9-409B-88A3-448478A2CF55}
+	EndGlobalSection
+EndGlobal
